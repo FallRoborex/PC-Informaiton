@@ -1,0 +1,33 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+.env
+.venv
+
+# Dependency directories
+venv/
+ENV/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Compiled files
+*.so
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+
+# Git
+*.orig
